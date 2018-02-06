@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title> | </title>
-  <link href="/"/>
-  <link type="application/atom+xml" rel="self" href="/atom.xml"/>
-  <updated>2018-02-06T14:41:12.5194604+01:00</updated>
-  <id>/</id>
+  <link href="https://sageau.github.io/testPretzel//"/>
+  <link type="application/atom+xml" rel="self" href="https://sageau.github.io/testPretzel//atom.xml"/>
+  <updated>2018-02-06T14:51:52.8402015+01:00</updated>
+  <id>https://sageau.github.io/testPretzel//</id>
   <author>
     <name></name>
     <email></email>
@@ -12,13 +12,13 @@
 
   
   <entry>
-    <id>/2018/02/06/myfirstpost.html</id>
-    <link type="text/html" rel="alternate" href="/2018/02/06/myfirstpost.html"/>
+    <id>https://sageau.github.io/testPretzel//2018/02/06/myfirstpost.html</id>
+    <link type="text/html" rel="alternate" href="https://sageau.github.io/testPretzel//2018/02/06/myfirstpost.html"/>
     <title>My First Post</title>
     <updated>2018-02-06T00:00:00+01:00</updated>
     <author>
       <name></name>
-      <uri></uri>
+      <uri>https://sageau.github.io/testPretzel/</uri>
     </author>
     <content type="html">&lt;h2&gt;Hello world...&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&quot;language-cs&quot;&gt;static void Main() 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title> | </title>
-    <link></link>
-    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://sageau.github.io/testPretzel/</link>
+    <atom:link href="https://sageau.github.io/testPretzel//rss.xml" rel="self" type="application/rss+xml" />
     <description>Personal blog of </description>
     <language>en-us</language>
-    <pubDate>Tue, 06 Feb 2018 14:41:12 +0100</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 14:41:12 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 14:51:52 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 14:51:52 +0100</lastBuildDate>
     
     <item>
       <title>My First Post</title>
-      <link>/2018/02/06/myfirstpost.html</link>
+      <link>https://sageau.github.io/testPretzel//2018/02/06/myfirstpost.html</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0100</pubDate>
       <author> ()</author>
-      <guid isPermaLink="true">/2018/02/06/myfirstpost.html</guid>
+      <guid isPermaLink="true">https://sageau.github.io/testPretzel//2018/02/06/myfirstpost.html</guid>
       <description>&lt;h2&gt;Hello world...&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&quot;language-cs&quot;&gt;static void Main() 
 {
